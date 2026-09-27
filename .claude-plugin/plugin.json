@@ -1,0 +1,19 @@
+{
+  "name": "inbox-autopilot",
+  "version": "0.1.0",
+  "description": "A draft-mode daily autopilot for job seekers: sweeps new mail, prepares tailored recruiter reply drafts (never auto-sends), files statements and school documents to cloud storage, and keeps an interactive to-do board up to date. Includes a one-time setup routine and instructions for scheduling the daily run.",
+  "author": {
+    "name": "Job & Inbox Autopilot"
+  },
+  "keywords": [
+    "inbox",
+    "email",
+    "job-search",
+    "recruiters",
+    "resume",
+    "to-do",
+    "automation",
+    "daily"
+  ],
+  "license": "MIT"
+}
